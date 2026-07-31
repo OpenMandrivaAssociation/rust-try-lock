@@ -5,8 +5,8 @@
 %global crate try-lock
 
 Name:           rust-%{crate}
-Version:        0.2.2
-Release:        6%{?dist}
+Version:        0.2.5
+Release:        1%{?dist}
 Summary:        Lightweight atomic lock
 
 # Upstream license specification: MIT
